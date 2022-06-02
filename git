@@ -1,0 +1,14 @@
+git init
+git config --global user.name "dhina"
+git config --global user.email "dhinakar6854@gamil.com"
+git config --list
+git clone https://github.com/Dhina007/Myfirst-Repository.git
+cd Myfirst-Repository
+touch avi guna ravi
+cd ..
+git status
+git add .
+git commit -m " commit msg"
+git log
+git push
+ 
