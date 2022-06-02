@@ -1,0 +1,25 @@
+git log
+
+git log -n
+
+git log --oneline
+
+git log --oneline -2
+
+git log --author=dhinakar
+
+git log --author=dhinakar --oneline
+
+git log --since=yy-mm-dd
+
+git log --until=yy-mm-dd
+
+git log --since=yy-mm-dd --until=yy-mm-dd
+
+git log --after="2022-06-02 6:30" --before="2022-06-2 10:30"
+
+git log -- filename
+
+git log --grep=" commit msg"
+
+
