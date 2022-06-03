@@ -2,3 +2,6 @@ git branch
 git branch branch-name
 git checkout branch-name
 git cherry-pick id
+git branch -d branch-name
+git branch -D branch-name 
+
