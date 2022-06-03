@@ -6,4 +6,5 @@ git branch -d branch-name
 git branch -D branch-name 
 git merge branch-name
 git push origin branch-name
+git diff branch-name branch-name
 
